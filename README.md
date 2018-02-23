@@ -1,1 +1,6 @@
-# devops-03
+# Ferramentas de controle de versão:
+
+*Mercurial
+*Github
+*Subversion
+*CSV
